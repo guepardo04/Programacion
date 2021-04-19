@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(163, 163, 163);
+}
+
+body {
+    text-align: center;
+}
+
+.general {
+    margin: 20%;
+    margin-top: 10%;
+}
+
+
+input {
+    background-color: white;
+}
+
+.button {
+    background-color: white;
+}
